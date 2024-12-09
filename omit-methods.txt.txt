@@ -1,0 +1,10 @@
+java.lang.ClassLoader.getSystemClassLoader
+java.lang.ClassLoader.getSystemResource
+org.springframework.boot.loader.net.protocol.nested.NestedLocation.fromUrl
+java.net.URLClassLoader.newInstance
+java.lang.Package.toString
+java.lang.ClassLoader.getDefinedPackage
+java.lang.ClassLoader.setClassAssertionStatus
+java.lang.ClassLoader.resources
+java.lang.ClassLoader.getDefinedPackages
+java.lang.Object.getClass

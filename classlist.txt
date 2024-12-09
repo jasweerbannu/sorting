@@ -1,0 +1,7 @@
+com.project.performance.sorting.BubbleSort 
+com.project.performance.sorting.HeapSort 
+com.project.performance.sorting.InsertionSort 
+com.project.performance.sorting.MergeSort 
+com.project.performance.sorting.QuickSort 
+com.project.performance.sorting.RadixSort 
+com.project.performance.sorting.ShellSort 
